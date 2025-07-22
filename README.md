@@ -1,4 +1,13 @@
 **TickIt - Web Application for Task Management**
+
+
+SkillCraft Technology Internship – Task 1
+
+Author: CH D S Akshay
+
+Domain: Web Development
+
+
 TickIt's main premise is a user-friendly and efficient to-do/task management web application. TickIt is developed as Task 4 under the Skill Craft Technology Internship Program. This project showcases skills in front-end development by presenting an interactive to-do/task system that is quickly responsive.
 
 Project Goal
